@@ -1,0 +1,24 @@
+{
+  "name": "json2csv",
+  "version": "1.0.0",
+  "description": "json to csv for storyblok labels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyMees/json2csv.git"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "storyblok"
+  ],
+  "author": "jeremy mees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremyMees/json2csv/issues"
+  },
+  "homepage": "https://github.com/JeremyMees/json2csv#readme"
+}
